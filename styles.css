@@ -1,0 +1,34 @@
+.background-container{
+  background-image: url("https://res.cloudinary.com/dz77p3lhg/image/upload/v1666957377/photo-1603366615917-1fa6dad5c4fa_bjutib.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.h-center{
+  text-align: center;
+  font-family: Roboto;
+}
+
+.card-container{
+  padding: 10px;
+}
+
+#navItem1{
+  color: white;
+}
+
+#navItem2{
+  color: white;
+}
+
+#navItem3{
+  color: white;
+}
+
+#navItem4{
+  color: white;
+}
+
+#navItem5{
+  color: white;
+}
