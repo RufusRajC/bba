@@ -1,71 +1,34 @@
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
-
-.bg-container{
-  background-image: url("https://www.pngmagic.com/product_images/all-free-download-blue-gradient-background.jpg");
-  height: 100vh;
+.background-container{
+  background-image: url("https://res.cloudinary.com/dz77p3lhg/image/upload/v1666956624/pexels-dids-1707580_b0noiu.jpg");
   background-size: cover;
+  height: 100vh;
+}
+
+.h-center{
+  text-align: center;
   font-family: Roboto;
-  padding-top: 250px;
-
 }
 
-.top-section{
-  text-align: center;
+.card-container{
+  padding: 10px;
+}
+
+#navItem1{
   color: white;
-  padding: 20px;
-  margin-top: 50px;
 }
 
-.page-heading{
-  font-size: 24px;
+#navItem2{
+  color: white;
 }
 
-.sub-heading{
-  color: grey;
-  font-size: 16px;
+#navItem3{
+  color: white;
 }
 
-
-.photos-container{
-  padding-left: 30px;
-  padding-right: 30px
+#navItem4{
+  color: white;
 }
 
-
-.results-info{
-  font-weight: bold;
-  color: red;
-}
-
-.new-img{
-  height: 3vh;
-  margin: 0;
-}
-
-.section-title{
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
-  text-decoration: underline;
-}
-
-.actual-results{
-  border-radius: 5px;
-  text-align: center;
-  padding: 10px;
-}
-
-.button-section{
-  text-align: center;
-}
-
-.timetable-item{
-  border-radius: 5px;
-  text-align: center;
-  padding: 10px;
-}
-
-.box-1{
-  width: 40vw;
-  margin-right: 10px;
+#navItem5{
+  color: white;
 }
